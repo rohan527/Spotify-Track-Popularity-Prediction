@@ -2,7 +2,9 @@
 
 ## Team Members 
 Arnav Bagchi (Roll No : 04, Class : D12C)
+
 Jay Dulera (Roll No : 15, Class : D12C)
+
 Rohan Ghosalkar (Roll No : 20, Class : D12C)
 
 ## Introduction
@@ -11,15 +13,15 @@ Here we are deciding wether or not a certain song will be a popular song (hit) o
 ## Dataset
 The datase consists of various spotify songs which are labelled with various properties of the song. For example,
 
-Name : Lucky Man
-Artist : Montgomery Gentry
-Energy Level : 0.471
-Loudness : 7.270	
-.
-.
-.
-.
-Popular : 1 (Yes)
+- **Name** : Lucky Man
+- **Artist** : Montgomery Gentry
+- **Energy Level** : 0.471
+- **Loudness** : 7.270	
+- .
+- .
+- .
+- .
+- **Popular** : 1 (Yes)
 
 ## Models 
 We have used three models. 
