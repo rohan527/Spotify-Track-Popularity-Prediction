@@ -1,11 +1,9 @@
 # Spotify-Track-Popularity-Prediction.
 
 ## Team Members 
-Arnav Bagchi (Roll No : 04, Class : D12C)
-
-Jay Dulera (Roll No : 15, Class : D12C)
-
-Rohan Ghosalkar (Roll No : 20, Class : D12C)
+1. Arnav Bagchi (Roll No : 04, Class : D12C)
+2. Jay Dulera (Roll No : 15, Class : D12C)
+3. Rohan Ghosalkar (Roll No : 20, Class : D12C)
 
 ## Introduction
 Here we are deciding wether or not a certain song will be a popular song (hit) or not. Our dataset consists of numerous songs which have been labeled according to different properties and types (loudness, duration, etc) and finally wether or not it was a hit song.
@@ -53,9 +51,9 @@ artificial neural network that generates a set of outputs from a set of inputs. 
 ## Result and Accuracy
 Algorithm | Accuracy
 ---------- | -----------
-SVM | 75.8
-Random Forest | 98.8
-MLP | 77.4
+SVM | 91.99
+Random Forest | 93.00
+MLP | 91.9
 
 ## Conclusion
-
+We have acheived accuracy above 90% in each of the algorithms however we could implement more algorithms and get better efficacy too.
