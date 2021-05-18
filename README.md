@@ -1,4 +1,4 @@
-# Spotify-Track-Popularity-Prediction.
+# Spotify-Track-Popularity-Prediction
 
 ## Team Members 
 1. Arnav Bagchi (Roll No : 04, Class : D12C)
