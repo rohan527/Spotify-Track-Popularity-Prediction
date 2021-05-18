@@ -27,6 +27,16 @@ The datase consists of various spotify songs which are labelled with various pro
 
 - **Popular** : 1 (Yes)
 
+## Software/Tools Used
+* Jupyter Notebook
+   
+## Libraries Used
+* Numpy
+* Pandas
+* Scikit-learn
+* matplotlib
+* seaborn
+
 ## Models 
 We have used three models. 
 
@@ -39,3 +49,13 @@ The random forest algorithm is based on supervised learning. It can be used for 
 ### MULTILAYER PERCEPTRON
 Multi-Layer perceptron defines the most complicated architecture of artificial neural networks. A multilayer perceptron is a feed forward 
 artificial neural network that generates a set of outputs from a set of inputs. An MLP is characterized by several layers of input nodes connected as a directed graph between the input nodes connected as a directed graph between the input and output layers.
+
+## Result and Accuracy
+Algorithm | Accuracy
+---------- | -----------
+SVM | 75.8
+Random Forest | 98.8
+MLP | 77.4
+
+## Conclusion
+
